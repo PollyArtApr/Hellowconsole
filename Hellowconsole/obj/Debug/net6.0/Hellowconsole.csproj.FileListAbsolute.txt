@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\bin\Debug\net6.0\Hellowconsole.exe
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\bin\Debug\net6.0\Hellowconsole.deps.json
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\bin\Debug\net6.0\Hellowconsole.runtimeconfig.json
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\bin\Debug\net6.0\Hellowconsole.dll
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\bin\Debug\net6.0\Hellowconsole.pdb
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\obj\Debug\net6.0\Hellowconsole.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\obj\Debug\net6.0\Hellowconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\obj\Debug\net6.0\Hellowconsole.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\obj\Debug\net6.0\Hellowconsole.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\obj\Debug\net6.0\Hellowconsole.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\obj\Debug\net6.0\Hellowconsole.dll
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\obj\Debug\net6.0\refint\Hellowconsole.dll
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\obj\Debug\net6.0\Hellowconsole.pdb
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\obj\Debug\net6.0\Hellowconsole.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\CSharp\Hellowconsole\obj\Debug\net6.0\ref\Hellowconsole.dll
